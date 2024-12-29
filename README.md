@@ -5,7 +5,6 @@ Sou desenvolvedor de software com experiência em Python, JavaScript, Java e Nod
 ### 🚀 O que eu faço
 - Desenvolvo aplicações web e APIs.
 - Apaixonado por aprender novas tecnologias.
-- Gosto de contribuir para projetos de código aberto.
 
 ### 🌱 Atualmente estou aprendendo
 - Inteligência artificial e aprendizado de máquina.
@@ -14,8 +13,7 @@ Sou desenvolvedor de software com experiência em Python, JavaScript, Java e Nod
 
 ### 📫 Como me encontrar
 - E-mail: antonio_slip7@hotmail.com
-- LinkedIn: [linkedin.com/in/joaosilva](https://www.linkedin.com/in/joaosilva)
-- Twitter: [@joaosilva](https://twitter.com/joaosilva)
+- LinkedIn: [linkedin.com/in/antonio-noberto-b6526612b](https://www.linkedin.com/in/antonio-noberto-b6526612b/)
 
 ### 🛠 Ferramentas
 - Python
